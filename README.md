@@ -84,8 +84,8 @@ Automatically generate PDF/HTML reports that include:
 
 ## 👨‍💻 Created by: Itay Vazana
 
-[GitHub Profile](https://github.com/your-github-profile)  
-[LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+[GitHub Profile](https://github.com/ItayVazana1)  
+[LinkedIn Profile](https://www.linkedin.com/in/itayvazana)
 
 ---
 
