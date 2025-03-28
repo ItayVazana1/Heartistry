@@ -1,7 +1,7 @@
 
 # Heartistry - Emotional Analysis of Children's Drawings
 
-![Heartistry](assets/cover_image.png)
+![Heartistry](assets/Cover.png)
 
 **Created by:** Itay Vazana  
 **Year:** 2025  
