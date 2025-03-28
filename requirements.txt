@@ -1,7 +1,0 @@
-opencv-python==4.5.5.64  # Image processing
-Pillow==8.4.0              # Image handling
-numpy==1.21.0               # Numerical computations
-scikit-learn==0.24.2        # Machine learning models
-matplotlib==3.4.3           # Visualization
-reportlab==3.6.3            # PDF reports
-Jinja2==3.0.3                # HTML reports
